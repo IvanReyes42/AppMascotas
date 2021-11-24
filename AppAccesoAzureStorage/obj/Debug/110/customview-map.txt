@@ -1,0 +1,31 @@
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+adaptive-icon;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+androidx.constraintlayout.widget.ConstraintLayout;obj\Debug\110\res\layout\activity_main.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+background;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+Button;obj\Debug\110\res\layout\activity_main.xml
+cache-path;C:\Users\Ivan Reyes Ortega\Desktop\ProyectosAguilar\AppMascotas\AppAccesoAzureStorage\obj\Debug\110\lp\48\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+color;obj\Debug\110\res\values\colors.xml
+color;obj\Debug\110\res\values\ic_launcher_background.xml
+EditText;obj\Debug\110\res\layout\activity_main.xml
+external-cache-path;C:\Users\Ivan Reyes Ortega\Desktop\ProyectosAguilar\AppMascotas\AppAccesoAzureStorage\obj\Debug\110\lp\48\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+external-files-path;obj\Debug\110\res\xml\file_paths.xml
+external-path;C:\Users\Ivan Reyes Ortega\Desktop\ProyectosAguilar\AppMascotas\AppAccesoAzureStorage\obj\Debug\110\lp\48\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher.xml
+foreground;obj\Debug\110\res\mipmap-anydpi-v26\ic_launcher_round.xml
+gradient;obj\Debug\110\res\drawable\gradiente.xml
+ImageView;obj\Debug\110\res\layout\activity_main.xml
+item;obj\Debug\110\res\values\strings.xml
+item;obj\Debug\110\res\values\styles.xml
+paths;C:\Users\Ivan Reyes Ortega\Desktop\ProyectosAguilar\AppMascotas\AppAccesoAzureStorage\obj\Debug\110\lp\48\jl\res\xml\xamarin_essentials_fileprovider_file_paths.xml
+paths;obj\Debug\110\res\xml\file_paths.xml
+resources;obj\Debug\110\res\values\colors.xml
+resources;obj\Debug\110\res\values\ic_launcher_background.xml
+resources;obj\Debug\110\res\values\strings.xml
+resources;obj\Debug\110\res\values\styles.xml
+shape;obj\Debug\110\res\drawable\gradiente.xml
+Spinner;obj\Debug\110\res\layout\activity_main.xml
+string;obj\Debug\110\res\values\strings.xml
+string-array;obj\Debug\110\res\values\strings.xml
+style;obj\Debug\110\res\values\styles.xml
+TextView;obj\Debug\110\res\layout\activity_main.xml

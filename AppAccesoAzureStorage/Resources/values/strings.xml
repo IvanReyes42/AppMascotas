@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppAccesoAzureStorage</string>
+    <string name="action_settings">Settings</string>
+    
+    <string-array name="estado_array">
+    <item>Saludable</item>
+    <item>Enfermo</item>
+  </string-array>
+
+</resources>
